@@ -3,8 +3,10 @@
   <!-- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BioDieAMan/BioDieAMan/profile-3d-contrib/profile-night-rainbow.svg" /> -->
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BioDieAMan/BioDieAMan/profile-3d-contrib/profile-gitblock.svg" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/Tim-RongfeiPan/BioDieAMan/profile-3d-contrib/profile-night-rainbow.svg" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/BioDieAMan/BioDieAMan/profile-3d-contrib/profile-gitblock.svg" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/BioDieAMan/BioDieAMan/profile-3d-contrib/profile-gitblock.svg" /> -->
 </picture>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 </br>
 
