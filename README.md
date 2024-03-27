@@ -11,9 +11,9 @@
 # Hi there 👋
 
 - 🔭 I’m currently working in Midea - Kuka as a Frontend Engineer
-- 🌱 I’m currently learning Frontend development, Unity(C#) ...
+- 🌱 I’m currently learning Frontend development, ***Unity***(C#), Screenplay, 💴...
 - 📫 How to reach me: <1838863836prf@gmail.com> <bit_panrongfei@163.com>
-
+- 💬 Mandarin, English
 
 </br>
 
